@@ -18,3 +18,8 @@ Deutsche Partei der Inländer
 Не знаю как. Я не учился на политтехнолога. Я хочу изменить ситиацию. Если ты знаешь как, то подключайся. 
 Привлечение аудитории уже на стадии написания устава. 
 
+### Как здесь вносить изменения?
+Файлы написаны в формате .md. О применяемой разметке можно почитать [здесь](https://github.com/fletcher/MultiMarkdown/blob/master/Documentation/Markdown%20Syntax.md "MD").
+О системе контроля версий вот [здесь](https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git "Git") 
+
+
