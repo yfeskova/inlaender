@@ -2,7 +2,7 @@
 
 raz raz
 
-dva dva
+tri dva
 
 tri tri
 
