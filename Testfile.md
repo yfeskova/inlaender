@@ -2,7 +2,7 @@
 
 raz raz
 
-tri dva
+pyat' dva
 
 tri tri
 
