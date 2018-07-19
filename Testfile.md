@@ -2,6 +2,6 @@
 
 raz raz
 
-dva dva
+raz dva
 
 tri tri
