@@ -27,10 +27,21 @@
 + 8-Jahre Schulsystem einführen.
 + IT Forderung schon in der Schule. Informatik als Fach früh einführen.
 + Debattierclub, Rhetorik spätestens im Abitur anbieten.
+- Förderschulen ja oder nein? Segregation von behinderten Kindern vermeiden, gemeinsamer Unterricht (aber individuell entscheinden).
 ## Kindergärten
 Sofortige Maßnahmen zur Verbesserung der Kindergarten Situation: 
-- mehr Kindergärten, 
-- höheres Lohn für Personal.
+- mehr Kindergärtenplätze
+- Lockerung der Regeln zur Kitaausweiterung
+- höheres Lohn für Personal
+- Weiterbildungen zum Intergrationserzieher/in: Formalitäten vereinfachen, finanziel attraktiv zu machen und mehr Möglichkeiten dazu  schaffen
+- Jede Kita soll inklusiv arbeiten: Personal dazu fördern die entsprechende Weiterbildungen zu absolvieren 
+- Finanzierung der Baumaßnahmen: Ziel barrierefrei.
+- Gebühren abschaffen 
+# Inklusion und Integration
+- keine kompromisslose Inklusion, sondern Förderung nach individuellem Bedarf (Schule und Kitas).
+- Berufseinstieg für behinderte Menschen einfacher machen
+- Integration im Berufsleben stark unterstützen 
+- Spiel und Sport als Weg zur Integration
 # Bundeswehr
 - Службу в армии сделать привлекательнее. Поступление без экзаменов в любую фаххохшуле на любую профессию. 
 - Право хранения оружия дома – автоматически. (?)
@@ -54,7 +65,11 @@ Sofortige Maßnahmen zur Verbesserung der Kindergarten Situation:
 # Freihandel
 (?)
 # Gesundheit/ Pflege/Sterbehilfe
-(?)
+- neues Reform im Bereich "Pflege" (Leistungen, Umbaumaßnahmen, Betreuung, Pflegegrad usw.)
+- Anpassung der Hilfsmittelkataloge bei den Kassen
+- Abschaffen/Umstrukturieren von MDK 
+- Beratungsstellen und Pflegestützpunkte für Eltern mit behinderten Kindern
+- EINE Anlaufstelle für mehrere Angelegenheiten bezüglich der hauslichen Pflege
 # Gründer/Startups/Selbständigkeit/Mittelstand
 Berlin und Deutschland für Startups attraktiver machen. 
 # Haushalt
